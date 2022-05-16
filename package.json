@@ -1,0 +1,14 @@
+{
+  "name": "to-do-list",
+  "version": "1.0.0",
+  "description": "Listas de Tarefas",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Fabio Reed",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.1"
+  }
+}
